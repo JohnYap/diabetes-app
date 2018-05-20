@@ -12,7 +12,7 @@ For details about how to use the app, see my blog post here:
 
 https://nycdatascience.com/blog/student-works/r-shiny/visualizing-diabetes-clinical-studies-data/
 
-### additional Notes:
+### additional notes:
 
 In the Studies Info feature,
 
