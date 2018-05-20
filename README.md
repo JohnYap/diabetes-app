@@ -8,7 +8,7 @@ The actual app can be found at:
 
 https://johnyap.shinyapps.io/clinicalstudiesApp/
 
-For details about how to use the app, see my blog post here:
+For details about how to use the app and some insights about the data summaries and results, see my blog post here:
 
 https://nycdatascience.com/blog/student-works/r-shiny/visualizing-diabetes-clinical-studies-data/
 
